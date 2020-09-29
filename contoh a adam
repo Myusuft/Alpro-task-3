@@ -1,0 +1,3 @@
+nama = "adam"
+hurufpertama = nama[ 0 ]
+print(hurufpertama)
