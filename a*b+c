@@ -1,0 +1,5 @@
+a = 3
+b = 5
+c = 2
+hasil = a * b + c
+print(hasil)
