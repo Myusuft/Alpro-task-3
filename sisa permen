@@ -1,0 +1,9 @@
+a = 4 
+b = 6 
+c = 10
+adi = a % 3
+budi = b % 4
+cici = c % 5
+
+sisa = adi + budi + cici
+print(sisa)
