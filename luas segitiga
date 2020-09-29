@@ -1,0 +1,4 @@
+tinggi = 2.5
+alas = 6.5
+luas = 1/2 * alas * tinggi
+print(luas)
