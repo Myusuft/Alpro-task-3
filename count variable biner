@@ -1,0 +1,8 @@
+biner_s = "01010"
+list2 = list(map(str, biner_s))
+hitung = '1'
+jumlah = 0
+for item in list2:
+    if item == hitung:
+        jumlah += 1
+print('output =', jumlah)
