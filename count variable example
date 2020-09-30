@@ -1,0 +1,9 @@
+S = "0 1 0 1 0"
+angka = S.split()
+print(angka)
+hitung = '1'
+jumlah = 0
+for item in angka:
+    if item == hitung:
+        jumlah += 1
+print('output =', jumlah)
