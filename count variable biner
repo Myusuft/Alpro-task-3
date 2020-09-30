@@ -6,3 +6,10 @@ for item in list2:
     if item == hitung:
         jumlah += 1
 print('output =', jumlah)
+
+#cara2
+biner_s = "01010"
+list2 = list(map(str, biner_s))
+hitung = '1'
+jumlah = biner_s.count(hitung)
+print('output =', jumlah)
